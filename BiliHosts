@@ -1,0 +1,30 @@
+#AntiBiliHosts 1.0 Alpha 
+#Yukino Shiratama 2018
+#主站数据
+0.0.0.0 bilibili.com
+0.0.0.0 member.bilibili.com
+0.0.0.0 api.bilibili.com
+0.0.0.0 cm.bilibili.com
+0.0.0.0 bangumi.bilibili.com
+#主站API
+0.0.0.0 api.live.bilibili.com
+0.0.0.0 api.vc.bilibili.com
+0.0.0.0 data.bilibili.com
+0.0.0.0 big.bilibili.com
+#hdslb CDN
+0.0.0.0 i0.hdslb.com
+0.0.0.0 i1.hdslb.com
+0.0.0.0 i2.hdslb.com
+0.0.0.0 i3.hdslb.com
+0.0.0.0 static.hdslb.com
+#徐逸注册或者备案的其他域名
+0.0.0.0 h.loli.my
+0.0.0.0 acg.tv
+#视频服务器，由于太多只挑重点
+#直播
+0.0.0.0 live-play.acgvideo.com
+#主要的几个视频服务器
+0.0.0.0 ws.acgvideo.com
+0.0.0.0 tx.acgvideo.com
+0.0.0.0 cc.acgvideo.com
+0.0.0.0 acgvideo.com
